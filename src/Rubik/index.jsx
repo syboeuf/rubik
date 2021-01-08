@@ -1,1 +1,1 @@
-export { default } from "./Rubik"
+export { default } from "./Rubik";
